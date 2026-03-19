@@ -6,6 +6,7 @@ This repository contains all deliverables from the **Quantium Data Analytics Vir
 
 ##  Repository Structure
 
+```
 Quantium-data-analytics/
 ├── Task1_Data_Preparation_Customer_Analytics/
 │ ├── quantium_task1.ipynb ← Customer analytics notebook
@@ -16,7 +17,7 @@ Quantium-data-analytics/
 │ └── quantium_task3.ipynb ← Commercial insights notebook
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Tasks Overview
