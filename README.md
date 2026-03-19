@@ -14,7 +14,8 @@ Quantium-data-analytics/
 ├── Task2_Experimenting_Uplift_Testing/
 │ └── quantium_task2.ipynb ← Uplift testing notebook
 ├── Task3_Analytics_Commercial_Application/
-│ └── quantium_task3.ipynb ← Commercial insights notebook
+│ └── quantium_task3.pdf ← Commercial insights notebook
+├──Quantium_completion_certificate.pdf
 ├── requirements.txt
 └── README.md
 ```
