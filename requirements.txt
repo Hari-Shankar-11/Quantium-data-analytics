@@ -4,4 +4,4 @@ matplotlib
 seaborn
 scipy
 openpyxl
-power bi
+power_bi
