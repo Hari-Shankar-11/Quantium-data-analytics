@@ -10,6 +10,7 @@ This repository contains all deliverables from the **Quantium Data Analytics Vir
 Quantium-data-analytics/
 ├── Task1_Data_Preparation_Customer_Analytics/
 │ ├── quantium_task1.ipynb ← Customer analytics notebook
+│ ├──Task_1_DashBoard.pdf ← Power BI dashboard export
 │ └── summary.txt ← Task brief and findings
 ├── Task2_Experimenting_Uplift_Testing/
 │ └── quantium_task2.ipynb ← Uplift testing notebook
@@ -30,6 +31,13 @@ Quantium-data-analytics/
 - Identified top customer segments by sales contribution
 - **Key finding:** Budget Older Families and Mainstream Young Singles/Couples are the highest value segments
 
+#### Power BI Dashboard Pages
+| Page | Contents |
+|---|---|
+| Customer Demographics | PREMIUM_CUSTOMER and LIFESTAGE distribution by year, total sales by year |
+| Sales Analysis | TOT_SALES by lifestage, customer tier, quarter and month |
+| Product Quantity | PROD_QTY by month, weekday, quarter, lifestage and customer tier |
+
 ### Task 2 — Experimenting & Uplift Testing
 - Selected control stores using Pearson correlation and sales similarity scoring
 - Measured sales uplift for 3 trial stores during trial period
@@ -49,6 +57,7 @@ Quantium-data-analytics/
 | `matplotlib` | Data visualisations |
 | `seaborn` | Statistical charts 
 | `scipy` | Statistical significance testing |
+| `Power BI` | Interactive dashboard and business reporting |
 
 
 ## 🏅 Completion Certificate
